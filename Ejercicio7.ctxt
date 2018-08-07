@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Ejercicio7
-comment0.text=\r\n\ Vamos\ a\ construir\ un\ programa\ para\ un\ trinagulo\r\n\ \ \ -\ hallar\ el\ area\ semiperimetro\r\n\ \ \ -\ hallar\ el\ area\ \r\n\ \ \ -\ hallar\ el\ circumradius\r\n\ Datos\ de\ Entrada\ \:\ \r\n\ \ \ -\ lado\ a,\ lado\ b,\ ladoc\r\n\ Datos\ de\ Salida\ \:\ \r\n\ \ \ -\ area\ semiperimetro,\ area\ y\ circumraius\r\n\ @author\ (victor)\r\n\ @version\ (6\ agosto\ 2018)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=val
-comment2.target=java.lang.String\ convertir(double)
-numComments=3
