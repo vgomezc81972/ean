@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment0.text=\r\n\ Escriba\ una\ clase\ en\ Java\ un\ programa\ que\ halle\ el\ volumen\ del\ tronco\ de\ cono,\ a\ partir\ de\ los\ datos\ necesarios\:\ \r\n\ \ \ -\ halle\ el\ volumen\ del\ tronco\ de\ cono\r\n\ Datos\ de\ Entrada\ \:\ \r\n\ \ \ -\ Radio\ base\ mayor\r\n\ \ \ -\ Radio\ Base\ menor\r\n\ \ \ -\ Altura\r\n\ Datos\ de\ Salida\ \:\ \r\n\ \ \ -\ Halle\ el\ volumen\ del\ tronco\ del\ cono\r\n\ @author\ (victor)\r\n\ @version\ (6\ agosto\ 2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
