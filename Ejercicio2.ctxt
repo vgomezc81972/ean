@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Ejercicio2
-comment0.text=\r\n\ Escriba\ una\ clase\ en\ Java\ un\ programa\ que\ modele\ el\ cami\u00F3n\ de\ una\ empresa\ de\ transporte\:\ \r\n\ \ \ el\ cami\u00F3n\ va\ a\ llevar\ una\ carga\ de\ Bogot\u00E1\ a\ Sasaima\:\r\n\ \ \ -\ El\ cami\u00F3n\ es\ capaz\ de\ transportar\ un\ n\u00FAmero\ determinado\ de\ kilos\ en\ un\ viaje\ \r\n\ \ \ -\ en\ cada\ viaje\ consume\ un\ n\u00FAmero\ determinado\ de\ galones\ de\ gasolina\ por\ kil\u00F3metro\r\n\ Datos\ de\ Entrada\ \:\ \r\n\ \ \ -\ Cual\ es\ la\ capacidad\ del\ camion\ en\ Kilos?\r\n\ \ \ -\ Consumo\ Gasolina\ x\ Camion\ x\ kilometro?\r\n\ \ \ -\ Kilometros\ totales\ a\ viajar\ (Ejemplo\ \:distancia\ desde\ Bogota\ -\ sasaima)\r\n\ \ \ -\ Carga\ que\ va\ a\ llevar?\r\n\ Datos\ de\ Salida\ \:\ \r\n\ \ \ -\ Determinar\ el\ numero\ de\ viajes\ x\ la\ carga\ que\ lleva\r\n\ \ \ -\ Numero\ de\ galones\ que\ se\ necesitan\ x\ viaje\ (carga)\r\n\ @author\ (victor)\r\n\ @version\ (6\ agosto\ 2018)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
