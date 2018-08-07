@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Ejercicio1
-comment0.text=\r\n\ Escriba\ programa\ en\ Java\ que\ solicite\ la\ informaci\u00F3n\ necesaria\ para\ armar\ un\ tronco\ de\ pir\u00E1mide,\ y\ que\ calcule\ y\ muestre\:\r\n\ \ \ -\ El\ \u00E1rea\ del\ tronco\ de\ pir\u00E1mide\r\n\ \ \ -\ El\ volumen\ del\ tronco\r\n\ Datos\ de\ Entrada\ \:\ \r\n\ \ \ -\ b\ (es\ la\ dimensi\u00F3n\ del\ lado\ del\ cuadrado\ superior)\r\n\ \ \ -\ B\ (es\ la\ dimensi\u00F3n\ del\ lado\ de\ cuadrado\ inferior)\r\n\ \ \ -\ h\ (es\ la\ altura\ del\ tronco)\r\n\ Datos\ de\ Salida\ \r\n\ \ \ -\ area\ tronco\r\n\ \ \ -\ volumen\r\n\ @author\ (victor)\r\n\ @version\ (6\ agosto\ 2018)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
