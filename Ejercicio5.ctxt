@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment0.text=\r\n\ Vamos\ a\ construir\ un\ programa\ para\ un\ avi\u00F3n\r\n\ \ \ -\ NUmero\ pasajeros\ x\ clase\r\n\ \ \ -\ Valor\ tiquete\ x\ clase\r\n\ Datos\ de\ Entrada\ \:\ \r\n\ \ \ -\ Clase\r\n\ \ \ -\ NUmero\ pasajeros\ x\ clase\r\n\ \ \ -\ Valor\ tiquete\ x\ clase\r\n\ Datos\ de\ Salida\ \:\ \r\n\ \ \ -\ digite\ clase\ \r\n\ \ \ -\ total\ pasajeros\ x\ clase\ y\ \r\n\ \ \ -\ total\ valor\ x\ clase\r\n\ @author\ (victor)\r\n\ @version\ (6\ agosto\ 2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=val
+comment2.target=java.lang.String\ convertir(double)
+numComments=3

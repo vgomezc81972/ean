@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio6
+comment0.text=\r\n\ Vamos\ a\ construir\ un\ programa\ para\ un\ hexagono\ regular\r\n\ \ \ -\ hallar\ el\ area\r\n\ Datos\ de\ Entrada\ \:\ \r\n\ \ \ -\ lado\r\n\ \ \ -\ ap\ \=\ apotema\r\n\ Datos\ de\ Salida\ \:\ \r\n\ \ \ -\ area\ del\ hexagono\ regular\r\n\ @author\ (victor)\r\n\ @version\ (6\ agosto\ 2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=val
+comment2.target=java.lang.String\ convertir(double)
+numComments=3
